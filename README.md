@@ -5,5 +5,10 @@ this is for github test
 - machine learining
 - deep learining
 
-### conflict with branch_0
-this is written for making trouble
+
+### Resolved confliction
+1. ml
+2. Dl
+3. MD
+
+
