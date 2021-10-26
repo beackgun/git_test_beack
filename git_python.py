@@ -8,12 +8,5 @@ y = np.exp(x)
 print(x,y)
 
 ########### Edited at local
-
-xx = x**2
-y = np.exp(xx)
-
-########## second edited
-print(y)
-
-
-
+lnx = np.log(x)
+y = lmx
